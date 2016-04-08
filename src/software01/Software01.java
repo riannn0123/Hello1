@@ -16,6 +16,7 @@ public class Software01 {
      */
     public static void main(String[] args) {
         System.out.println("hello,world");
+        System.out.println("Hi! My name is Kyoko");
         // TODO code application logic here
     }
     
